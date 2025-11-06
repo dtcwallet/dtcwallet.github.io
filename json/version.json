@@ -1,0 +1,11 @@
+{
+	"version": "1.0.0",
+	"isUniform":true,
+	"content": "1.",
+	"downloadPageUrl":"",
+	"website":"",
+	"Customer_email":"",
+	"Business_email":"",
+	"submit_dapp":"",
+	"note":"(更新说明)isUniform值为true时，所有语言版本只会显示content里面的内容"
+}
