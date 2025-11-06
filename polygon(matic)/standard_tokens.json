@@ -1,0 +1,14 @@
+{
+  "errorCode": 0,
+  "reason": "获取成功",
+  "data": [
+    {
+      "name": "MATIC",
+      "protocol": "20",
+      "symbol": "MATIC",
+      "address": "",
+      "decimals": 18,
+      "logoURI": "https://hashpayinfo.github.io/polygon(matic)/0x0000000000000000000000000000000000001010/logo.png"
+    }
+  ]
+}
