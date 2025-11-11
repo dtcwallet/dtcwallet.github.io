@@ -5,7 +5,7 @@
     {
       "name": "ETH",
       "protocol": "20",
-      "symbol": "ETH",
+      "symbol": "Ether",
       "address": "",
       "decimals": 18,
       "logoURI": "https://dtcwallet.github.io/eth/eth/eth.png"
