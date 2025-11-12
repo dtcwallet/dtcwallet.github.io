@@ -3,9 +3,9 @@
   "reason": "获取成功",
   "data": [
     {
-      "name": "ETH",
+      "name": "Ether",
       "protocol": "20",
-      "symbol": "Ether",
+      "symbol": "ETH",
       "address": "",
       "decimals": 18,
       "logoURI": "https://dtcwallet.github.io/eth/eth/eth.png"
