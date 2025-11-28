@@ -27,8 +27,8 @@
                     {
                         "name": "区块链浏览器",
                         "des": null,
-                        "url": "https://bttcscan.com/",
-                        "logo": "https://hashpaypie.oss-cn-hangzhou.aliyuncs.com/images/explorer/bittorrent_explorer.png"
+                        "url": "https://explorer.datachain.top/",
+                        "logo": "https://dtcwallet.github.io/dtc/dapp/network.png"
                     }
                 ]
             }
