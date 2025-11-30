@@ -8,5 +8,5 @@
 	"Business_email":"",
 	"submit_dapp":"",
 	"note":"(更新说明)isUniform值为true时，所有语言版本只会显示content里面的内容",
-	"islock":true
+	"islock":false
 }
