@@ -26,7 +26,7 @@
                 "items": [
                     {
                         "name": "区块链浏览器",
-                        "des": null,
+                        "des": "查询验证地址交易",
                         "url": "https://explorer.datachain.top/",
                         "logo": "https://dtcwallet.github.io/dtc/dapp/network.png"
                     }
