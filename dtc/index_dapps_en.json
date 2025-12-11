@@ -25,8 +25,8 @@
                 "type": "hot",
                 "items": [
                     {
-                        "name": "Explorer",
-                        "des": null,
+                        "name": "DTCscan",
+                        "des": "Query and verify address transactions",
                         "url": "https://explorer.datachain.top/",
                         "logo": "https://dtcwallet.github.io/dtc/dapp/network.png"
                     }
