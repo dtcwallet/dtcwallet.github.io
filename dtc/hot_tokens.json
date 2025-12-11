@@ -1,5 +1,38 @@
 {
   "errorCode": 0,
   "reason": "获取成功",
-  "data": []
+  "data": [
+    {
+            "name": "usdt test",
+            "protocol": "20",
+            "address": "0x5d6dFD52C12e07fc79458c54D5A6Dc2B47E0DaA3",
+            "decimals": 18,
+            "symbol": "USDT",
+            "logoURI": "https://cdn.datachain.top/usdt.png"
+      },
+    {
+            "name": "Tether USD",
+            "protocol": "20",
+            "address": "0xf4AF88F34c2771a4A76a3c08B7AA7c7569E7F7E5",
+            "decimals": 18,
+            "symbol": "USDT",
+            "logoURI": "https://cdn.datachain.top/usdt.png"
+      },
+    {
+            "name": "doge test",
+            "protocol": "20",
+            "address": "0xC57a82487CbC6194A3AA623B58aa2426cd67DE84",
+            "decimals": 18,
+            "symbol": "DOGE",
+            "logoURI": "https://cdn.datachain.top/dogecoin.png"
+      },
+    {
+            "name": "sol",
+            "protocol": "20",
+            "address": "0x061Ceeb7Bbc4E51a20a73610Fa5EF502a3DB9C7E",
+            "decimals": 18,
+            "symbol": "SOL",
+            "logoURI": "https://cdn.datachain.top/dtc.png"
+      }
+  ]
 }
